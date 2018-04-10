@@ -10,3 +10,7 @@ echo 888;
 echo 999;
 echo 111;
 echo 333;
+function ce()
+{
+    echo 111;
+}
